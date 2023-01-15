@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 export const Header = ({ image, name }) => (
-  <div className="header">
+  <div className="header bg-white">
     <div className="flex ph6 items-center">
       <h1 className="f5 w-20 blue">
         Tweeter
